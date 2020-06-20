@@ -41,7 +41,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/Infect
+$ git clone https://github.com/pratik-jp/Infect
 ```
 ```
 $ ls
@@ -76,38 +76,21 @@ __Update__ :
 __Exit__ :
 - From this option you can exit from infect tool 
 
-## ?? ***Screenshot*** :
-<img src="https://user-images.githubusercontent.com/49580304/70858686-834b6580-1f2c-11ea-9ea6-0839251db161.jpg" width="80%"></img>
-
-## ?? ***Full video tutorial***:
-[![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
 ## ?? ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UCmN-zrWYGJH8UNZwKHFp1AA
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+https://hacktechlife03.blogspot.com
 
-## ?? ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/noobhack
-
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+## ?? ***Follow***
 
 ### Instagram: 
-https://www.instagram.com/noobhackers352
-
-### Pinterest:
-https://in.pinterest.com/noobhackers
+https://www.instagram.com/_hacktechlife03_blogger/
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://www.github.com/pratik-jp
 
 ### ?? Warning
 
