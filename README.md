@@ -41,7 +41,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/pratik-jp/Infect
+$ git clone https://github.com/HACKTECHLIFE/Infect
 ```
 ```
 $ ls
@@ -90,7 +90,7 @@ https://hacktechlife03.blogspot.com
 https://www.instagram.com/_hacktechlife03_blogger/
 
 ### My GitHub ID link:
-https://www.github.com/pratik-jp
+https://www.github.com/HACKTECHLIFE
 
 ### ?? Warning
 
