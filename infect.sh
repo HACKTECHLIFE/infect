@@ -14,12 +14,12 @@ pink='\033[1;35m'
 clear
 echo '
                 
-                                      HACKTECHLIFE 
+                      HACKTECHLIFE 
 '|lolcat
 echo " " 
 
 echo -e "$red                  ▶ Coded by$grn HACKTECHMAN$red ◀$rset"
-echo -e "$red           ⫸$ylo https://www.youtube.com/channel/UCmN-zrWYGJH8UNZwKHFp1AA$red ⫷$rset"
+echo -e "$red           ⫸$ylo https://www.youtube.com/HACKTECHLIFE$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                   [Infect them with fun]$rset"
